@@ -1,0 +1,58 @@
+{
+  "_from": "@ajqua/marker-with-label",
+  "_id": "@ajqua/marker-with-label@1.0.0-beta.4d",
+  "_inBundle": false,
+  "_integrity": "sha512-KZYhhya+nFXnMwhRfGGhc09Ao6vFIGYGg1axhnApxb8dD40NVXxtVfZDL6Rmzo8yeELebT+S5fOutQZ/XDQQNQ==",
+  "_location": "/@ajqua/marker-with-label",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ajqua/marker-with-label",
+    "name": "@ajqua/marker-with-label",
+    "escapedName": "@ajqua%2fmarker-with-label",
+    "scope": "@ajqua",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ajqua/marker-with-label/-/marker-with-label-1.0.0-beta.4d.tgz",
+  "_shasum": "0c1f9a31fda3c6cf0e653c8696dd50b15ba87a30",
+  "_spec": "@ajqua/marker-with-label",
+  "_where": "/Users/braxtondiggs/Documents/Sites/Homora",
+  "author": {
+    "name": "Felix Piskunov",
+    "email": "felix.piskunov@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Angular Google Maps (AGM) extension for markerwithlabel support",
+  "homepage": "https://github.com/SebastianM/angular-google-maps#readme",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "markerwithlabel",
+    "google-maps",
+    "agm"
+  ],
+  "license": "MIT",
+  "name": "@ajqua/marker-with-label",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0 || ^6.0.0",
+    "@ajqua/core": "^1.0.0-beta.4b",
+    "markerwithlabel": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianM/angular-google-maps.git"
+  },
+  "version": "1.0.0-beta.4d"
+}
