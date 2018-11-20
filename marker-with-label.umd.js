@@ -1,6 +1,6 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('rxjs'), require('@ajqua/core')) :
-    typeof define === 'function' && define.amd ? define(['exports', '@angular/core', 'rxjs', '@ajqua/core'], factory) :
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('rxjs'), require('@agm/core')) :
+    typeof define === 'function' && define.amd ? define(['exports', '@angular/core', 'rxjs', '@agm/core'], factory) :
     (factory((global.ngmaps = global.ngmaps || {}, global.ngmaps.markerWithLabel = {}),global.ng.core,null,global.ngmaps.core));
 }(this, (function (exports,core,rxjs,core$1) { 'use strict';
 
